@@ -1,0 +1,4 @@
+export enum EnumKeys {
+  USER = "userStore",
+  KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzMDlhMGYxZjY5MzY0NWJlZTIzMGMwMDQwN2U3NjIzNiIsInN1YiI6IjYzZDNkMzc5NWEwN2Y1MDA4MmY0MTMxZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.e9EOE78emuLw-pr5RmpceV9Ks_XD3DnmoyFc-K1ErHM",
+}
